@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Слой_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 200 200" style="enable-background:new 0 0 200 200;" xml:space="preserve">
+<style type="text/css">
+	.st0{opacity:0.41;fill:#0071BC;}
+	.st1{fill:none;stroke:#000000;stroke-miterlimit:10;}
+	.st2{font-family:'Roboto-Regular';}
+	.st3{font-size:12px;}
+</style>
+<path class="st0" d="M61.09,100.42h39.08V60.33c-0.06,0-0.11,0-0.17,0c-21.91,0-39.67,17.76-39.67,39.67c0,0.15,0.01,0.29,0.01,0.44
+	C60.59,100.43,60.83,100.42,61.09,100.42z"/>
+<polygon class="st0" points="60.33,100 100,179.43 100,100 "/>
+<rect x="100" y="100" class="st0" width="79.34" height="39.76"/>
+<g>
+	<g>
+		<line class="st1" x1="100" y1="200" x2="100" y2="7.06"/>
+		<g>
+			<polygon points="100,0 104.07,9.95 100,7.59 95.94,9.95 			"/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<line class="st1" x1="0.02" y1="100.02" x2="192.96" y2="100.02"/>
+		<g>
+			<polygon points="200.02,100.02 190.07,104.09 192.43,100.02 190.07,95.96 			"/>
+		</g>
+	</g>
+</g>
+<line class="st1" x1="20.66" y1="101.87" x2="20.66" y2="98.13"/>
+<line class="st1" x1="60.33" y1="101.87" x2="60.33" y2="98.13"/>
+<line class="st1" x1="179.34" y1="101.87" x2="179.34" y2="98.13"/>
+<line class="st1" x1="139.67" y1="101.87" x2="139.67" y2="98.13"/>
+<line class="st1" x1="98.13" y1="20.57" x2="101.87" y2="20.57"/>
+<line class="st1" x1="98.13" y1="60.24" x2="101.87" y2="60.24"/>
+<line class="st1" x1="98.15" y1="179.43" x2="101.89" y2="179.43"/>
+<line class="st1" x1="98.15" y1="139.76" x2="101.89" y2="139.76"/>
+<text transform="matrix(1 0 0 1 175.8936 94.9575)" class="st2 st3">R</text>
+<text transform="matrix(1 0 0 1 130.7021 94.9576)" class="st2 st3">R/2</text>
+<text transform="matrix(1 0 0 1 104.4042 183.5533)" class="st2 st3">-R</text>
+<text transform="matrix(1 0 0 1 105.6808 25.2554)" class="st2 st3">R</text>
+<text transform="matrix(1 0 0 1 105.6809 64.0639)" class="st2 st3">R/2</text>
+<text transform="matrix(1 0 0 1 16.3191 94.9575)" class="st2 st3">-R</text>
+<text transform="matrix(1 0 0 1 47.9787 94.9576)" class="st2 st3">-R/2</text>
+<text transform="matrix(1 0 0 1 104.4044 143.4682)" class="st2 st3">-R/2</text>
+</svg>
