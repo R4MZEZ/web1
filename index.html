@@ -15,48 +15,46 @@
 </head>
 
 <body>
-    <script src="scripts/script.js"></script>
-    <div id="container">
-        <div>
-            <h4 id="header">
-                <b>Студент: Казаченко Роман Олегович</b>, Группа: P3230, Вариант: 30007
-            </h4>
-        </div>
-        <div id="content">
-            <div id="leftbar">
-                <img src="img/graph.svg">
-            </div>
-            <div id="rightbar">
-                <form id="field-form" action="" method="POST">
-                    <fieldset style="border: none;">
-                        <label>Введите координату X:</label>
-                        <input class="input-text" id="inputX" type="text" data-min="-5" data-max="5" data-separator=",">
-                        <br><br>
-                        <label>Введите координату Y:</label>
-                        <input class="input-text" id="inputY" type="text" data-min="-5" data-max="3" data-separator=",">
-                        <br><br>
-                        <label>Введите параметр R:</label>
-                        <br>
-                        <label>1</label><input name="radio-R" id="radio1" class="radio" type="radio">
-                        <label>2</label><input name="radio-R" id="radio2" class="radio" type="radio">
-                        <label>3</label><input name="radio-R" id="radio3" class="radio" type="radio">
-                        <label>4</label><input name="radio-R" id="radio4" class="radio" type="radio">
-                        <label>5</label><input name="radio-R" id="radio5" class="radio" type="radio">
-                        <br>
-                        <input id="submit-button" class="button" type="button" value="Отправить">
-                        <input id="reset-button" class="button" type="button" value="Сбросить">
-
-
-                    </fieldset>
-                </form>
-            </div>
-        </div>
-        <label style="margin-left: 45%;">Журнал запросов</label>
-        <table id="historyTable">
-
-        </table>
+<div id="container">
+    <div>
+        <h4 id="header">
+            <b>Студент: Казаченко Роман Олегович</b>, Группа: P3230, Вариант: 30007
+        </h4>
     </div>
-    <script src="scripts/script.js"></script>
+    <div id="content">
+        <div id="leftbar">
+            <img id="graphic" src="img/graph.svg">
+        </div>
+        <div id="rightbar">
+            <form id="field-form" action="" method="POST">
+                <fieldset style="border: none;">
+                    <label>Введите координату X [-5,5]:</label>
+                    <input class="input-text" id="inputX" type="text" data-min="-5" data-max="5" data-separator=",">
+                    <br><br>
+                    <label>Введите координату Y [-5,3]:</label>
+                    <input class="input-text" id="inputY" type="text" data-min="-5" data-max="3" data-separator=",">
+                    <br><br>
+                    <label>Введите параметр R:</label>
+                    <br>
+                    <label>1</label><input name="radio-R" id="radio1" class="radio" type="radio">
+                    <label>2</label><input name="radio-R" id="radio2" class="radio" type="radio">
+                    <label>3</label><input name="radio-R" id="radio3" class="radio" type="radio">
+                    <label>4</label><input name="radio-R" id="radio4" class="radio" type="radio">
+                    <label>5</label><input name="radio-R" id="radio5" class="radio" type="radio">
+                    <br>
+                    <input id="submit-button" class="button" type="button" value="Отправить">
+                    <input id="reset-button" class="button" type="button" value="Сбросить">
+
+
+                </fieldset>
+            </form>
+        </div>
+    </div>
+    <label style="margin-left: 45%;">Журнал запросов</label>
+    <br><br>
+    <table id="historyTable"></table>
+</div>
+<script src="scripts/script.js"></script>
 </body>
 
 </html>
