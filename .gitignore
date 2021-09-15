@@ -1,4 +1,4 @@
-.htaccess
-.idea
-.gitignore
-errors.log
+/.htaccess
+/.idea
+/.gitignore
+/errors.log
